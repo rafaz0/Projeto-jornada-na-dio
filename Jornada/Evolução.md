@@ -15,4 +15,4 @@
 - Introdução ao Git e ao GitHub
 - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 
-Como já coloquei os projetos dos cursos no GitHub optei por apenas listá-los, sem comitá-los novamente.
+Como já coloquei os projetos dos cursos no GitHub optei por apenas listá-los, sem fazer o push.
